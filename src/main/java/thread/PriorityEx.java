@@ -12,25 +12,4 @@ public class PriorityEx {
         thread2.start();
 
     }
-
-    static class Thread1 extends Thread {
-        @Override
-        public void run() {
-            for (int i = 0; i < 200; i++) {
-                System.out.print("11");
-            }
-
-        }
-    }
-
-    static class Thread2 extends Thread {
-        @Override
-        public void run() {
-            for (int i = 0; i < 200; i++) {
-                System.out.print("22");
-            }
-        }
-    }
-
-
 }
