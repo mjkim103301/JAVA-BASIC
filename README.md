@@ -7,12 +7,12 @@
 
 ## 2주차 인터페이스, OCP
 * 정삼각형, 직각삼각형의 밑변의 길이, 높이 구하기
-* 레포지토리: [draw-figure]
+* 레포지토리: [draw-figure](https://github.com/mjkim103301/draw-figure)
 
 ## 3주차 Exception
 * 커스텀 익셉션 만들기
-* 레포지토리: [draw-figure]
-* 
+* 레포지토리: [draw-figure](https://github.com/mjkim103301/draw-figure)
+
 ## 4주차 멀티쓰레드, 싱글톤
 * 예제 만들어보기
 * 레포지토리: [java-basic]
